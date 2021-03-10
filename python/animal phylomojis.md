@@ -2,36 +2,43 @@
 
 
 ## Mammals
-((Primates,(🐇🐰,Rodents)),(OddtoedUngulates,EventoedUngulates))
+(Monotremes,(Marsupials,Placentals))
 
+### Mammals
+((🦘,🐨),((Primates,(🐇🐰,Rodents)),(OddtoedUngulates,EventoedUngulates)))  
 
-### Ungulates
+#### Rodents
+((🐁🐭,🐀),🐿️,🐹,🦫)
 
-### OddtoedUngulates
+Related:
+- Artificial mouse: 🖱️
+- Mouse Trap: 🪤
+
+#### OddtoedUngulates
 (🦏,(🐴🐎,🦓))
 
 Related: 
 - Ape and Horse: 🏇
 - Ambiguous Ungulate: 🦄. Is it odd-toed or even-toed? Sources disagree.
 
-### EventoedUngulates
+#### EventoedUngulates
 (Camelids,Pigs,(Whippos,Ruminants))  
 ((🦙,(🐪,🐫)),((🐖🐷🐽),🐗),(((🐬,🐳🐋),🦛),(🦒,🦌,((🐃,(🦬,🐂🐄)),(🐏🐑,🐐)))))
 
-#### Camelids
+##### Camelids
 (🦙,(🐪,🐫))
 
-#### Pigs
+##### Pigs
 ((🐖🐷🐽),🐗)
 
-#### Whippos
+##### Whippos
 ((🐬,🐳🐋),🦛)
 
-#### Ruminants
+##### Ruminants
 (🦒,🦌,Bovids)  
 (🦒,🦌,((🐃,(🦬,🐂🐄)),(🐏🐑,🐐)))
 
-##### Bovids
+###### Bovids
 ((🐃,(🦬,🐂🐄)),(🐏🐑,🐐))
 
 
