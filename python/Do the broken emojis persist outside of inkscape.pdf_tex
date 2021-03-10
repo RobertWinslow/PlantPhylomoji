@@ -1,0 +1,148 @@
+%% Creator: Inkscape 1.0 (4035a4fb49, 2020-05-01), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Do the broken emojis persist outside of inkscape.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{720.38166677bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.76121419)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(-0.2349724,-0.68373975){\color[rgb]{0.54509804,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Force topology is enabled!\end{tabular}}}}%
+    \put(-0.2349724,-0.69928707){\color[rgb]{0.54509804,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Branch lengths do not represent real values.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.1582612,0.01033417){\color[rgb]{0,0,0}\rotatebox{-180}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}herb\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.15932389,0.02830714){\color[rgb]{0,0,0}\rotatebox{175.81395}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}four_leaf_clover\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.16169576,0.04615468){\color[rgb]{0,0,0}\rotatebox{171.62791}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}evergreen_tree\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.16536398,0.06378148){\color[rgb]{0,0,0}\rotatebox{167.44186}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}avocado\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.17030915,0.08109346){\color[rgb]{0,0,0}\rotatebox{163.25581}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}tulip\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.15565701,0.10597191){\color[rgb]{0,0,0}\rotatebox{159.06977}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}palm_tree\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.12895234,0.14017253){\color[rgb]{0,0,0}\rotatebox{154.88372}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}banana\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.10609799,0.17872448){\color[rgb]{0,0,0}\rotatebox{150.69767}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}pineapple\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.08757981,0.22123477){\color[rgb]{0,0,0}\rotatebox{146.51163}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}corn\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.07384567,0.26726335){\color[rgb]{0,0,0}\rotatebox{142.32558}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}tanabata_tree\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.09388816,0.29071291){\color[rgb]{0,0,0}\rotatebox{138.13953}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ear_of_rice\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.22215401,0.20210617){\color[rgb]{0,0,0}\rotatebox{133.95349}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}grapes\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.16338483,0.30341524){\color[rgb]{0,0,0}\rotatebox{129.76744}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}peanuts\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.18582748,0.32023242){\color[rgb]{0,0,0}\rotatebox{125.5814}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}shamrock\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.16944726,0.40089344){\color[rgb]{0,0,0}\rotatebox{121.39535}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}rose\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.1989891,0.41700803){\color[rgb]{0,0,0}\rotatebox{117.2093}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}strawberry\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.21461685,0.46624848){\color[rgb]{0,0,0}\rotatebox{113.02326}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}apple\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.24880881,0.47889157){\color[rgb]{0,0,0}\rotatebox{108.83721}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}pear\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.28383248,0.48900506){\color[rgb]{0,0,0}\rotatebox{104.65116}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}peach\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.3125293,0.53427892){\color[rgb]{0,0,0}\rotatebox{100.46512}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}cherry_blossom\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.35142594,0.53959335){\color[rgb]{0,0,0}\rotatebox{96.279069}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}cherries\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.39481221,0.42698344){\color[rgb]{0,0,0}\rotatebox{92.093022}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}chestnut\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.42705914,0.46493508){\color[rgb]{0,0,0}\rotatebox{87.906978}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}jack_o_lantern\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.46478645,0.50022668){\color[rgb]{0,0,0}\rotatebox{83.720931}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}watermelon\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.50776291,0.53226178){\color[rgb]{0,0,0}\rotatebox{79.534884}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hello ETE🦆🦬🐃\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.54599151,0.52333046){\color[rgb]{0,0,0}\rotatebox{75.348836}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}melon\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.53389411,0.36632474){\color[rgb]{0,0,0}\rotatebox{71.162791}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}hibiscus\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.55994038,0.35592865){\color[rgb]{0,0,0}\rotatebox{66.976743}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}chocolate_bar\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.60270872,0.37779481){\color[rgb]{0,0,0}\rotatebox{62.790699}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}tangerine\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.62940865,0.36234497){\color[rgb]{0,0,0}\rotatebox{58.604651}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}lemon\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.65490961,0.34498737){\color[rgb]{0,0,0}\rotatebox{54.418605}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}maple_leaf\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.58086301,0.20780003){\color[rgb]{0,0,0}\rotatebox{50.232558}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}cactus\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=33]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.62185426,0.2220316){\color[rgb]{0,0,0}\rotatebox{46.046511}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}kiwi_fruit\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=34]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.69430752,0.25682825){\color[rgb]{0,0,0}\rotatebox{41.860465}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}cocktail\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=35]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.7423133,0.25847362){\color[rgb]{0,0,0}\rotatebox{37.674419}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sweet_potato\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=36]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.7919421,0.25432999){\color[rgb]{0,0,0}\rotatebox{33.488373}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}smoking\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=37]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.84259642,0.24418151){\color[rgb]{0,0,0}\rotatebox{29.302326}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}hot_pepper\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=38]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.89365643,0.22786911){\color[rgb]{0,0,0}\rotatebox{25.116279}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}eggplant\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=39]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.94448589,0.20529265){\color[rgb]{0,0,0}\rotatebox{20.930233}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}potato\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=40]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.9576822,0.16535488){\color[rgb]{0,0,0}\rotatebox{16.744186}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}tomato\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=41]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.78060646,0.08283272){\color[rgb]{0,0,0}\rotatebox{12.558139}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}carrot\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=42]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.82327507,0.06077267){\color[rgb]{0,0,0}\rotatebox{8.3720927}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sunflower\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=43]{Do the broken emojis persist outside of inkscape.pdf}}%
+    \put(0.82624549,0.03006824){\color[rgb]{0,0,0}\rotatebox{4.1860469}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}blossom\end{tabular}}}}}%
+    \put(0.55447778,0.61262189){\makebox(0,0)[lt]{\smash{\begin{tabular}[t]{l}Hello ETE🦆🦬🐃\end{tabular}}}}%
+    \put(0.60929686,0.69754543){\makebox(0,0)[lt]{\smash{\begin{tabular}[t]{l}🦬🦆 Duck\end{tabular}}}}%
+    \put(0.43498008,0.74644876){\makebox(0,0)[lt]{\smash{\begin{tabular}[t]{l}🦆 Duck\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
