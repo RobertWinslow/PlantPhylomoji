@@ -4,15 +4,29 @@
 ## Mammals
 (Monotremes,(Marsupials,Placentals))
 
-### Mammals
-((🦘,🐨),((Primates,(🐇🐰,Rodents)),(OddtoedUngulates,EventoedUngulates)))  
+## Mammals
+((🦘,🐨),((Primates,(🐇🐰,Rodents)),(Carnivorans,Ungulates)))  
 
-#### Rodents
-((🐁🐭,🐀),🐿️,🐹,🦫)
+### Carnivorans
+(Feliforms,Caniforms)  
+(Feliforms,Caniforms)  
+
+#### Feliforms
+(🐱)
+
+#### Caniforms
+(🐶 🦊 🐻 🐼 🐻‍❄️ 🐯 🦁)
+
+### Rodents
+(((🐁🐭,🐀),🐹),🐿️,🦫)
 
 Related:
 - Artificial mouse: 🖱️
 - Mouse Trap: 🪤
+
+### Ungulates
+(OddtoedUngulates,EventoedUngulates)  
+((🦏,(🐴🐎,🦓)),((🦙,(🐪,🐫)),((🐖🐷🐽),🐗),(((🐬,🐳🐋),🦛),(🦒,🦌,((🐃,(🦬,🐂🐄🐮)),(🐏🐑,🐐))))))  
 
 #### OddtoedUngulates
 (🦏,(🐴🐎,🦓))
@@ -23,7 +37,7 @@ Related:
 
 #### EventoedUngulates
 (Camelids,Pigs,(Whippos,Ruminants))  
-((🦙,(🐪,🐫)),((🐖🐷🐽),🐗),(((🐬,🐳🐋),🦛),(🦒,🦌,((🐃,(🦬,🐂🐄)),(🐏🐑,🐐)))))
+((🦙,(🐪,🐫)),((🐖🐷🐽),🐗),(((🐬,🐳🐋),🦛),(🦒,🦌,((🐃,(🦬,🐂🐄🐮)),(🐏🐑,🐐)))))
 
 ##### Camelids
 (🦙,(🐪,🐫))
@@ -39,7 +53,7 @@ Related:
 (🦒,🦌,((🐃,(🦬,🐂🐄)),(🐏🐑,🐐)))
 
 ###### Bovids
-((🐃,(🦬,🐂🐄)),(🐏🐑,🐐))
+((🐃,(🦬,🐂🐄🐮)),(🐏🐑,🐐))
 
 
 
